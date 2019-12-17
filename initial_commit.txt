@@ -1,3 +1,2 @@
 This is the first commit 
-
-and now it has been edited  
+and now it has been edited
